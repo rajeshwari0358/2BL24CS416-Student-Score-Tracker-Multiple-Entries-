@@ -1,2 +1,2 @@
 #2BL24CS416  - Student Score Trecker (Multiple Entries)
-https://github.com/rajeshwari0358/2BL24CS416-Student-Score-Tracker-Multiple-Entries-
+
